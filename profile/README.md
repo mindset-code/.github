@@ -1,5 +1,6 @@
-<h1 align="center">Mindset &amp; Code</h1>
-<p align="center"><strong>Asesoría fiscal y tecnológica para autónomos y pymes · España y Chile</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mindset-code/.github/main/profile/banner-perfil.png" alt="Mindset &amp; Code · Asesoría fiscal y tecnológica · España y Chile" width="900" />
+</p>
 
 <p align="center">
   <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
@@ -12,10 +13,10 @@
 
 Presentamos tus impuestos como **colaboradores sociales de la AEAT** (convenio 001 a través de ADECLA) y construimos lo que automatiza tu negocio. Montar una empresa tiene dos mitades y casi nadie te cubre las dos: aquí no tienes que elegir.
 
-- **La habilitación se comprueba, no se promete** → [registro de colaboración social de la AEAT](https://sede.agenciatributaria.gob.es/Sede/colaborar-agencia-tributaria/colaboracion-social.html)
+- **La habilitación se comprueba, no se promete** → [colaboración social de la AEAT](https://sede.agenciatributaria.gob.es/Sede/colaborar-agencia-tributaria/colaboracion-social-presentacion-declaraciones.html)
 - **En Chile**, operativa ante el SII con Mandato Digital, que revocas tú cuando quieras
 - **Respuesta en menos de 24 h laborables**, por escrito, y siempre el mismo interlocutor
-- **Esta organización es la prueba del trabajo:** 13 repositorios públicos, con su historial y sus fechas
+- **Esta organización es la prueba del trabajo:** 12 repositorios de proyecto, cada uno con su código, su historial, sus fechas y su wiki
 
 ---
 
@@ -64,7 +65,7 @@ Encargos con **alcance, precio y plazo cerrados por escrito**, sin llamada comer
 
 Nadie tiene por qué creerse lo que una web dice de sí misma. Cada proyecto está abierto: se lee el código entero, con su historial y sus fechas, y respalda un servicio del catálogo.
 
-Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué está construido— y desde ahí se abre la demo y el repositorio.
+Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué está construido— y desde ahí se abre la demo y el repositorio. Cada repositorio lleva además su **wiki**, con la arquitectura y las decisiones de diseño.
 
 ### Datos, BI y modelos predictivos
 
@@ -120,3 +121,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | **Teléfono** | +34 673 907 048 |
 | **Dónde** | El Prat de Llobregat, Barcelona · en remoto para España y Chile |
 | **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es#contact) |
+
+<p align="center">
+  <sub><a href="https://mindset-code.com/es">mindset-code.com</a> · <a href="https://mindset-code.com/en">English</a> · <a href="https://mindset-code.com/ca">Català</a> · <a href="https://mindset-code.com/aviso-legal">Condiciones generales</a> · <a href="https://mindset-code.com/privacidad">Privacidad</a></sub>
+</p>
