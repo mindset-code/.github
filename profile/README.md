@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
+  <b>Castellano</b> · <a href="https://github.com/mindset-code/.github/blob/main/profile/README.en.md">English</a> · <a href="https://github.com/mindset-code/.github/blob/main/profile/README.ca.md">Català</a>
+</p>
+
+<p align="center">
   <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
   <a href="https://mindset-code.com/es/codigo"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-12%20proyectos-2f6b4f?style=for-the-badge" alt="Código publicado" /></a>
-  <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-16-a33a34?style=for-the-badge" alt="Encargos" /></a>
+  <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-18-a33a34?style=for-the-badge" alt="Encargos" /></a>
   <a href="https://mindset-code.com/es#contact"><img src="https://img.shields.io/badge/Primera%20llamada-60%20min%20sin%20coste-555?style=for-the-badge" alt="Agendar llamada" /></a>
 </p>
 
@@ -57,7 +61,7 @@ Encargos con **alcance, precio y plazo cerrados por escrito**, sin llamada comer
 | Creo que mi gestoría no lo hace bien | [Segunda opinión](https://mindset-code.com/es/encargo/segunda-opinion) |
 | Se me va la vida tecleando facturas | [Captura automática de facturas](https://mindset-code.com/es/encargo/captura-facturas) |
 
-→ **[Ver los 16 encargos con precio cerrado](https://mindset-code.com/es/express)**
+→ **[Ver los 18 encargos con precio cerrado](https://mindset-code.com/es/express)**
 
 ---
 
@@ -85,6 +89,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | [Web cinemática](https://mindset-code.com/es/codigo/web-cinematica) | Convierte una web plana en una landing con movimiento construido en código, no en vídeo | Vite · React · GSAP · R3F |
 | [Restaurante en 3D](https://mindset-code.com/es/codigo/restaurante-3d) | Modelos tridimensionales reales sin penalizar la carga | React · Three.js · GSAP |
 | [Simulador de ingresos](https://mindset-code.com/es/codigo/simulador-de-ingresos) | Las palancas del precio, en deslizadores que recalculan al instante | HTML · CSS · JavaScript |
+| [Portafolio interactivo](https://mindset-code.com/es/codigo/portafolio-interactivo) | Reúne los proyectos en un solo sitio, con los cuadros de mando leyendo los datos que cada repositorio publica | React · Vite · Recharts · Firebase |
 
 ### Seguridad
 
