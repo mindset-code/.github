@@ -72,7 +72,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | Proyecto | Qué resuelve | Stack |
 | :--- | :--- | :--- |
 | [Cuadro de mando ejecutivo](https://mindset-code.com/es/codigo/cuadro-de-mando-ejecutivo) | 24 indicadores de dirección que cuadran entre sí, en cuatro dominios de negocio | Python · React · Recharts |
-| [Fuga de clientes](https://mindset-code.com/es/codigo/fuga-de-clientes) | Regresión logística que señala quién se va y qué lo empuja — AUC-ROC 0,881 | scikit-learn · Python · React |
+| [Fuga de clientes](https://mindset-code.com/es/codigo/fuga-de-clientes) | Regresión logística que señala quién se va y qué lo empuja — AUC-ROC 0,703, reproducible con el código y los datos del repositorio | scikit-learn · Python · React |
 | [ETL de ventas y meteorología](https://mindset-code.com/es/codigo/etl-ventas-meteorologia) | Cruza 2,9 M de registros de clima con 9.800 transacciones de venta | Python · Pandas · Firebase |
 | [Rentabilidad por SQL](https://mindset-code.com/es/codigo/rentabilidad-por-sql) | Diez mil líneas de venta cortadas por producto, región y descuento | SQL · Python · Power BI |
 | [Motor de precios hotelero](https://mindset-code.com/es/codigo/motor-de-precios-hotelero) | Seis señales de demanda fijan la tarifa de cada noche, con previsión a 60 días | Python · NumPy · React |
@@ -90,8 +90,8 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 
 | Proyecto | Qué resuelve | Stack |
 | :--- | :--- | :--- |
-| [Análisis de registros](https://mindset-code.com/es/codigo/analisis-de-logs) | Convierte miles de líneas de log en la lista corta de direcciones que conviene bloquear | Python · ISC2 CC |
-| [Escáner de vulnerabilidades](https://mindset-code.com/es/codigo/escaner-de-vulnerabilidades) | Qué puertas están abiertas, qué riesgo tiene cada una y en qué orden cerrarlas | Python · ISC2 CC |
+| [Análisis de registros](https://mindset-code.com/es/codigo/analisis-de-logs) | Parsea 5.000 eventos de seguridad sintéticos y los resume en un informe de incidentes con cuatro tablas | Python · biblioteca estándar |
+| [Escáner de vulnerabilidades](https://mindset-code.com/es/codigo/escaner-de-vulnerabilidades) | Simula un escaneo de puertos y convierte los abiertos en hallazgos priorizados, con su severidad y su mitigación | Python · biblioteca estándar |
 
 > Son proyectos propios, no encargos de clientes: los datos son sintéticos o públicos y no contienen información de nadie. Lo que se puede comprobar es el código, que está entero.
 
@@ -105,10 +105,9 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | **Máster en Big Data & Business Intelligence** | Universidad Isabel I | 2021–2022 |
 | **Diplomado en Gestión y Planificación Tributaria** | Universidad de Las Américas | 2022–2022 |
 | **Ingeniería Comercial** | Universidad de Las Américas | 2017–2019 |
-| **Certified in Cybersecurity (CC)** | ISC2 | 2024–2024 · vigente hasta 2027 |
-| **Generative AI Engineering** | IBM | 2026–2026 |
-| **Full Stack Software Developer** | IBM | 2024–2024 |
-| **Revenue & Demand Management** | ESSEC Business School | 2025–2025 |
+| **Generative AI Engineering** | IBM | 2026 |
+| **Full Stack Software Developer** | IBM | 2026 |
+| **Revenue & Demand Management** | ESSEC Business School | 2026 |
 
 ---
 
