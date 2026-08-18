@@ -10,7 +10,7 @@
   <a href="https://mindset-code.com/ca"><img src="https://img.shields.io/badge/Serveis-mindset--code.com-2c4a6e?style=for-the-badge" alt="Serveis" /></a>
   <a href="https://mindset-code.com/ca/codigo"><img src="https://img.shields.io/badge/La%20feina%20publicada-12%20projectes-2f6b4f?style=for-the-badge" alt="Codi publicat" /></a>
   <a href="https://mindset-code.com/ca/express"><img src="https://img.shields.io/badge/Enc%C3%A0rrecs%20amb%20preu%20tancat-18-a33a34?style=for-the-badge" alt="Encàrrecs" /></a>
-  <a href="https://mindset-code.com/ca#contact"><img src="https://img.shields.io/badge/Primera%20trucada-60%20min%20sense%20cost-555?style=for-the-badge" alt="Demanar hora" /></a>
+  <a href="https://mindset-code.com/ca/cita"><img src="https://img.shields.io/badge/Primera%20trucada-60%20min%20sense%20cost-555?style=for-the-badge" alt="Demanar hora" /></a>
 </p>
 
 ---
@@ -124,7 +124,7 @@ Cada fila enllaça la seva **fitxa** —quin problema resol, què fa i amb què 
 | **Correu** | contacto@mindset-code.com |
 | **Telèfon** | +34 673 907 048 |
 | **On** | El Prat de Llobregat, Barcelona · en remot per a Espanya i Xile |
-| **Primera trucada** | 60 minuts, sense cost i sense comercial pel mig — [demanar hora](https://mindset-code.com/ca#contact) |
+| **Primera trucada** | 60 minuts, sense cost i sense comercial pel mig — [demanar hora](https://mindset-code.com/ca/cita) |
 
 <p align="center">
   <sub><a href="https://mindset-code.com/ca">mindset-code.com</a> · <a href="https://mindset-code.com/es">Castellano</a> · <a href="https://mindset-code.com/en">English</a> · <a href="https://mindset-code.com/ca/aviso-legal">Condicions generals</a> · <a href="https://mindset-code.com/ca/privacidad">Privacitat</a></sub>

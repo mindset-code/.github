@@ -10,7 +10,7 @@
   <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
   <a href="https://mindset-code.com/es/codigo"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-12%20proyectos-2f6b4f?style=for-the-badge" alt="Código publicado" /></a>
   <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-18-a33a34?style=for-the-badge" alt="Encargos" /></a>
-  <a href="https://mindset-code.com/es#contact"><img src="https://img.shields.io/badge/Primera%20llamada-60%20min%20sin%20coste-555?style=for-the-badge" alt="Agendar llamada" /></a>
+  <a href="https://mindset-code.com/es/cita"><img src="https://img.shields.io/badge/Primera%20llamada-60%20min%20sin%20coste-555?style=for-the-badge" alt="Agendar llamada" /></a>
 </p>
 
 ---
@@ -124,7 +124,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | **Correo** | contacto@mindset-code.com |
 | **Teléfono** | +34 673 907 048 |
 | **Dónde** | El Prat de Llobregat, Barcelona · en remoto para España y Chile |
-| **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es#contact) |
+| **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es/cita) |
 
 <p align="center">
   <sub><a href="https://mindset-code.com/es">mindset-code.com</a> · <a href="https://mindset-code.com/en">English</a> · <a href="https://mindset-code.com/ca">Català</a> · <a href="https://mindset-code.com/aviso-legal">Condiciones generales</a> · <a href="https://mindset-code.com/privacidad">Privacidad</a></sub>

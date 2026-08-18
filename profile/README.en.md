@@ -10,7 +10,7 @@
   <a href="https://mindset-code.com/en"><img src="https://img.shields.io/badge/Services-mindset--code.com-2c4a6e?style=for-the-badge" alt="Services" /></a>
   <a href="https://mindset-code.com/en/codigo"><img src="https://img.shields.io/badge/The%20published%20work-12%20projects-2f6b4f?style=for-the-badge" alt="Published code" /></a>
   <a href="https://mindset-code.com/en/express"><img src="https://img.shields.io/badge/Fixed--price%20engagements-18-a33a34?style=for-the-badge" alt="Engagements" /></a>
-  <a href="https://mindset-code.com/en#contact"><img src="https://img.shields.io/badge/First%20call-60%20min%20at%20no%20cost-555?style=for-the-badge" alt="Book a call" /></a>
+  <a href="https://mindset-code.com/en/cita"><img src="https://img.shields.io/badge/First%20call-60%20min%20at%20no%20cost-555?style=for-the-badge" alt="Book a call" /></a>
 </p>
 
 ---
@@ -124,7 +124,7 @@ Each row links to its **project page** — what problem it solves, what it does 
 | **Email** | contacto@mindset-code.com |
 | **Phone** | +34 673 907 048 |
 | **Where** | El Prat de Llobregat, Barcelona · remotely for Spain and Chile |
-| **First call** | 60 minutes, at no cost and with no salesperson in between — [book it](https://mindset-code.com/en#contact) |
+| **First call** | 60 minutes, at no cost and with no salesperson in between — [book it](https://mindset-code.com/en/cita) |
 
 <p align="center">
   <sub><a href="https://mindset-code.com/en">mindset-code.com</a> · <a href="https://mindset-code.com/es">Castellano</a> · <a href="https://mindset-code.com/ca">Català</a> · <a href="https://mindset-code.com/en/aviso-legal">Terms and conditions</a> · <a href="https://mindset-code.com/en/privacidad">Privacy</a></sub>
