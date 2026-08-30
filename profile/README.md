@@ -89,6 +89,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | Proyecto | Qué resuelve | Stack |
 | :--- | :--- | :--- |
 | [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | La huella SHA-256 encadenada que la AEAT exige a todo software de facturación antes de 2027 · reproduce el vector de prueba oficial | Python · cero dependencias |
+| [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | Cuándo vence cada modelo de la AEAT · traslada a día hábil, distingue la asimetría del 4T y resta los cinco días de la domiciliación | Python · cero dependencias |
 
 ### Seguridad
 
