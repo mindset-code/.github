@@ -84,6 +84,12 @@ Each row links to its **page** —what problem it solves, what it does and what 
 | [Revenue simulator](https://mindset-code.com/en/codigo/simulador-de-ingresos) | The pricing levers, as sliders that recalculate instantly | HTML · CSS · JavaScript |
 | [Interactive portfolio](https://mindset-code.com/en/codigo/portafolio-interactivo) | Brings the projects together in one place, with the dashboards reading the data each repository publishes | React · Vite · Recharts · Firebase |
 
+### Libraries
+
+| Project | What it solves | Stack |
+| :--- | :--- | :--- |
+| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | The chained SHA-256 hash that Spain’s tax agency requires from every invoicing system before 2027 · reproduces the official test vector | Python · zero dependencies |
+
 ### Security
 
 | Project | What it solves | Stack |

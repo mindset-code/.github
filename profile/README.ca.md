@@ -84,6 +84,12 @@ Cada fila enllaça la seva **fitxa** —quin problema resol, què fa i amb què 
 | [Simulador d'ingressos](https://mindset-code.com/ca/codigo/simulador-de-ingresos) | Les palanques del preu, en lliscadors que recalculen a l'instant | HTML · CSS · JavaScript |
 | [Portafolis interactiu](https://mindset-code.com/ca/codigo/portafolio-interactivo) | Reuneix els projectes en un sol lloc, amb els quadres de comandament llegint les dades que cada repositori publica | React · Vite · Recharts · Firebase |
 
+### Biblioteques
+
+| Projecte | Què resol | Stack |
+| :--- | :--- | :--- |
+| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | L’empremta SHA-256 encadenada que l’AEAT exigeix a tot programari de facturació abans del 2027 · reprodueix el vector de prova oficial | Python · zero dependències |
+
 ### Seguretat
 
 | Projecte | Què resol | Stack |

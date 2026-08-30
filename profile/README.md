@@ -84,6 +84,12 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | [Simulador de ingresos](https://mindset-code.com/codigo/simulador-de-ingresos) | Las palancas del precio, en deslizadores que recalculan al instante | HTML · CSS · JavaScript |
 | [Portafolio interactivo](https://mindset-code.com/codigo/portafolio-interactivo) | Reúne los proyectos en un solo sitio, con los cuadros de mando leyendo los datos que cada repositorio publica | React · Vite · Recharts · Firebase |
 
+### Bibliotecas
+
+| Proyecto | Qué resuelve | Stack |
+| :--- | :--- | :--- |
+| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | La huella SHA-256 encadenada que la AEAT exige a todo software de facturación antes de 2027 · reproduce el vector de prueba oficial | Python · cero dependencias |
+
 ### Seguridad
 
 | Proyecto | Qué resuelve | Stack |
