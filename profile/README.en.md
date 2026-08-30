@@ -19,7 +19,7 @@ We automate what you still do by hand, turn your data into a dashboard you can a
 
 - **The price comes first** → every engagement states scope, amount and deadline in writing, with no sales call beforehand
 - **A written answer within 24 working hours**, always from the same person
-- **This organisation is the proof of the work:** 12 project repositories, each with its code, its history, its dates and its wiki
+- **This organisation is the proof of the work:** 12 project repositories —each with its code, its history, its dates and its wiki— plus three libraries you can install and use
 
 ---
 
@@ -90,6 +90,7 @@ Each row links to its **page** —what problem it solves, what it does and what 
 | :--- | :--- | :--- |
 | [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | The chained SHA-256 hash that Spain’s tax agency requires from every invoicing system before 2027 · reproduces the official test vector | Python · zero dependencies |
 | [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | When each Spanish tax form is due · shifts to the next working day, handles the Q4 asymmetry and subtracts the five days of direct debit | Python · zero dependencies |
+| [facturae-es](https://github.com/mindset-code/facturae-es) | The Facturae 3.2.2 XML that Spain's RD 238/2026 makes mandatory · totals derived from the lines, element order checked against the official schema | Python · zero dependencies |
 
 ### Security
 

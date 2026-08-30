@@ -19,7 +19,7 @@ Automatizamos lo que hoy se hace a mano, convertimos tus datos en un panel que s
 
 - **El precio va por delante** → cada encargo lleva alcance, importe y plazo cerrados por escrito, sin llamada comercial previa
 - **Respuesta en menos de 24 h laborables**, por escrito, y siempre el mismo interlocutor
-- **Esta organización es la prueba del trabajo:** 12 repositorios de proyecto, cada uno con su código, su historial, sus fechas y su wiki
+- **Esta organización es la prueba del trabajo:** 12 repositorios de proyecto —cada uno con su código, su historial, sus fechas y su wiki— y tres bibliotecas que se instalan y se usan
 
 ---
 
@@ -90,6 +90,7 @@ Cada fila enlaza su **ficha** —qué problema resuelve, qué hace y con qué es
 | :--- | :--- | :--- |
 | [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | La huella SHA-256 encadenada que la AEAT exige a todo software de facturación antes de 2027 · reproduce el vector de prueba oficial | Python · cero dependencias |
 | [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | Cuándo vence cada modelo de la AEAT · traslada a día hábil, distingue la asimetría del 4T y resta los cinco días de la domiciliación | Python · cero dependencias |
+| [facturae-es](https://github.com/mindset-code/facturae-es) | El XML de Facturae 3.2.2 que el RD 238/2026 hace obligatorio · los totales salen de las líneas y el orden se valida contra el esquema del Ministerio | Python · cero dependencias |
 
 ### Seguridad
 
