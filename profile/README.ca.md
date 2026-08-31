@@ -88,7 +88,7 @@ Cada fila enllaça la seva **fitxa** —quin problema resol, què fa i amb què 
 
 | Projecte | Què resol | Stack |
 | :--- | :--- | :--- |
-| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | L’empremta SHA-256 encadenada que l’AEAT exigeix a tot programari de facturació abans del 2027 · reprodueix el vector de prova oficial | Python · zero dependències |
+| [verifactu-huella](https://github.com/mindset-code/pyverifactu-huella) | L’empremta SHA-256 encadenada que l’AEAT exigeix a tot programari de facturació abans del 2027 · reprodueix el vector de prova oficial | Python · zero dependències |
 | [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | Quan venç cada model de l’AEAT · trasllada a dia hàbil, distingeix l’asimetria del 4T i resta els cinc dies de la domiciliació | Python · zero dependències |
 | [facturae-es](https://github.com/mindset-code/facturae-es) | L'XML de Facturae 3.2.2 que el RD 238/2026 fa obligatori · els totals surten de les línies i l'ordre es valida contra l'esquema del Ministeri | Python · zero dependències |
 

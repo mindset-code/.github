@@ -88,7 +88,7 @@ Each row links to its **page** —what problem it solves, what it does and what 
 
 | Project | What it solves | Stack |
 | :--- | :--- | :--- |
-| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | The chained SHA-256 hash that Spain’s tax agency requires from every invoicing system before 2027 · reproduces the official test vector | Python · zero dependencies |
+| [verifactu-huella](https://github.com/mindset-code/pyverifactu-huella) | The chained SHA-256 hash that Spain’s tax agency requires from every invoicing system before 2027 · reproduces the official test vector | Python · zero dependencies |
 | [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | When each Spanish tax form is due · shifts to the next working day, handles the Q4 asymmetry and subtracts the five days of direct debit | Python · zero dependencies |
 | [facturae-es](https://github.com/mindset-code/facturae-es) | The Facturae 3.2.2 XML that Spain's RD 238/2026 makes mandatory · totals derived from the lines, element order checked against the official schema | Python · zero dependencies |
 
