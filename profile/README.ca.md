@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mindset-code.com/ca"><img src="https://img.shields.io/badge/Serveis-mindset--code.com-2c4a6e?style=for-the-badge" alt="Serveis" /></a>
+  <a href="https://mindset-code.com/ca/services"><img src="https://img.shields.io/badge/Serveis-11-2c4a6e?style=for-the-badge" alt="Serveis" /></a>
   <a href="https://mindset-code.com/ca/codigo"><img src="https://img.shields.io/badge/La%20feina%20publicada-12%20projectes-2f6b4f?style=for-the-badge" alt="Codi publicat" /></a>
   <a href="https://mindset-code.com/ca/express"><img src="https://img.shields.io/badge/Encàrrecs%20amb%20preu%20tancat-6-a33a34?style=for-the-badge" alt="Encàrrecs" /></a>
   <a href="https://mindset-code.com/ca/cita"><img src="https://img.shields.io/badge/Primera%20trucada-60%20min%20sense%20cost-555?style=for-the-badge" alt="Demanar cita" /></a>
@@ -124,7 +124,7 @@ Cada fila enllaça la seva **fitxa** —quin problema resol, què fa i amb què 
 | :--- | :--- |
 | **Web** | [mindset-code.com](https://mindset-code.com/ca) |
 | **Correu** | contacto@mindset-code.com |
-| **Telèfon** | +34 673 907 048 |
+| **Telèfon** | +34 673 907 055 |
 | **On** | El Prat de Llobregat, Barcelona · i en remot |
 | **Primera trucada** | 60 minuts, sense cost i sense comercial pel mig — [demanar cita](https://mindset-code.com/ca/cita) |
 
