@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mindset-code/.github/main/profile/banner-perfil.png" alt="Mindset &amp; Code · Automatització, dades i desenvolupament" width="900" />
+  <img src="https://raw.githubusercontent.com/mindset-code/.github/main/profile/banner-perfil.png" alt="Mindset &amp; Code · Webs, IA i dades per al teu negoci" width="900" />
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://mindset-code.com/ca/services"><img src="https://img.shields.io/badge/Serveis-11-2c4a6e?style=for-the-badge" alt="Serveis" /></a>
-  <a href="https://mindset-code.com/ca/codigo"><img src="https://img.shields.io/badge/La%20feina%20publicada-12%20projectes-2f6b4f?style=for-the-badge" alt="Codi publicat" /></a>
-  <a href="https://mindset-code.com/ca/express"><img src="https://img.shields.io/badge/Encàrrecs%20amb%20preu%20tancat-6-a33a34?style=for-the-badge" alt="Encàrrecs" /></a>
+  <a href="https://mindset-code.com/ca/codigo"><img src="https://img.shields.io/badge/La%20feina%20publicada-12%20projectes-567ca8?style=for-the-badge" alt="Codi publicat" /></a>
+  <a href="https://mindset-code.com/ca/express"><img src="https://img.shields.io/badge/Encàrrecs%20amb%20preu%20tancat-6-3c6596?style=for-the-badge" alt="Encàrrecs" /></a>
   <a href="https://mindset-code.com/ca/cita"><img src="https://img.shields.io/badge/Primera%20trucada-60%20min%20sense%20cost-555?style=for-the-badge" alt="Demanar cita" /></a>
 </p>
 

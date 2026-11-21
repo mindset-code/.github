@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mindset-code/.github/main/profile/banner-perfil.png" alt="Mindset &amp; Code · Automatización, datos y desarrollo" width="900" />
+  <img src="https://raw.githubusercontent.com/mindset-code/.github/main/profile/banner-perfil.png" alt="Mindset &amp; Code · Webs, IA y datos para tu negocio" width="900" />
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://mindset-code.com/services"><img src="https://img.shields.io/badge/Servicios-11-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
-  <a href="https://mindset-code.com/codigo"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-12%20proyectos-2f6b4f?style=for-the-badge" alt="Código publicado" /></a>
-  <a href="https://mindset-code.com/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-6-a33a34?style=for-the-badge" alt="Encargos" /></a>
+  <a href="https://mindset-code.com/codigo"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-12%20proyectos-567ca8?style=for-the-badge" alt="Código publicado" /></a>
+  <a href="https://mindset-code.com/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-6-3c6596?style=for-the-badge" alt="Encargos" /></a>
   <a href="https://mindset-code.com/cita"><img src="https://img.shields.io/badge/Primera%20llamada-60%20min%20sin%20coste-555?style=for-the-badge" alt="Agendar llamada" /></a>
 </p>
 
